@@ -1,3 +1,0 @@
-/home/thiago/git/invest-map/build/CMakeFiles/rebuild_cache.dir
-/home/thiago/git/invest-map/build/CMakeFiles/invest_map.dir
-/home/thiago/git/invest-map/build/CMakeFiles/edit_cache.dir

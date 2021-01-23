@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/invest_map.dir/src/main.c.o  -o invest_map 
